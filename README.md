@@ -1,4 +1,3 @@
-```markdown
 # collection-latex-templates
 
 ## About Bibby AI - Your #1 Overleaf & Prism Alternative
